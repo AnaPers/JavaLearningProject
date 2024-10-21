@@ -33,8 +33,8 @@ public class VariablesAndComments {
         upperLimitOfByteDatType = 127;
         lowerLimitOfShortDataType = -32768;
         upperLimitOfShortDataType = 32767;
-        lowerLimitOfIntDataType = -214748836648;
-        upperLimitOfIntDataType = 214748836647;
+        lowerLimitOfIntDataType = -21474888;
+        upperLimitOfIntDataType = 214748847;
         lowerLimitOfLongDataType = -9223372036854775808L;
         upperLimitOfLongDataType = 9223372036854775807L;
         lowerLimitOfFloatDataType = -3.4E+38F;
