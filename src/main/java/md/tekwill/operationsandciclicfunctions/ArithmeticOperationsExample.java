@@ -11,6 +11,13 @@ public class ArithmeticOperationsExample {
         System.out.println("The sum is: " + (a + c));
         System.out.println("The sum is: " + sum);
 
+        //Write a program that will change the value of the variable, as an output a = 12, c = 5
+        a = a + c;
+        c = a - c;
+        a = a - c;
+        System.out.println("Value after swapping: a = " + a);
+        System.out.println("Value after swapping: c = " + c);
+
         //Substraction
         int dif = a - c;
         System.out.println("The dis is:" + dif);
@@ -32,5 +39,6 @@ public class ArithmeticOperationsExample {
 
         //The result of remainder for division
         System.out.println("The remainder is: " + (a % c));
+
     }
 }

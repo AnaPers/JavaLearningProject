@@ -1,4 +1,4 @@
-package md.classesandobjects;
+package md.tekwill.classesandobjects;
 
 public class Tool {
 
